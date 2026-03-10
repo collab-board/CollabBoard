@@ -1,0 +1,6 @@
+@CollabBoard.Server_HostAddress = http://localhost:5166
+
+GET {{CollabBoard.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

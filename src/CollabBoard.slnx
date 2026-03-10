@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CollabBoard.AppHost/CollabBoard.AppHost.csproj" />
+  <Project Path="collabboard.client/collabboard.client.esproj">
+    <Build />
+  </Project>
+  <Project Path="CollabBoard.Server/CollabBoard.Server.csproj" />
+  <Project Path="CollabBoard.ServiceDefaults/CollabBoard.ServiceDefaults.csproj" />
+</Solution>
